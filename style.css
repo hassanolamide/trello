@@ -1,0 +1,85 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+nav{
+    background: rgb(0,128,0);
+}
+.nav-link{
+    color: white !important;
+    padding-left: 30px !important;
+}
+.search{
+color: white;
+}
+
+.atik{
+    background:linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.4)) ,url("img/8.jpg");
+    background-size: cover;
+    height: 60vh;
+    width: 455px;
+
+}
+.side1{
+    color: white;
+    padding-top: 220px;
+}
+.ejiro{
+    background:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(img/ejiro.webp) center;
+    height: 30vh;
+    background-size: cover;
+    width: 230px;
+}
+.side2{
+    color: white;
+    padding-top: 90px;
+}
+.drama{
+    background:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(img/1qdNVZxpN4g.400x0.webp) center;
+    height: 30vh;
+    background-size: cover;
+    width: 230px;
+}
+.side3{
+    color: white;
+    padding-top: 50px;
+}
+.me{
+    background:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(img/2.jpg) center;
+    height: 30vh;
+    background-size: cover; 
+    width: 230px;
+}
+.come{
+    background:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(img/3.png) center;
+    height: 30vh;
+    background-size: cover;
+    width: 230px;
+}
+.third{
+    background:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(img/1.jpg) center;
+    height: 12vh;
+    background-size: cover;
+}
+.age{
+    background:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(img/6.jpg) center;
+    height: 12vh;
+    background-size: cover;
+}
+.money{
+    background:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(img/4.jpg) center;
+    height: 12vh;
+    background-size: cover;
+}
+.habit{
+    background:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(img/7.jpg) center;
+    height: 12vh;
+    background-size: cover;
+}
+.tatoo{
+    background:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(img/5.png) center;
+    height: 12vh;
+    background-size: cover;
+}
+    
